@@ -15,7 +15,7 @@ The algorithm works by iterating through the array and inserting each element in
 
 
 ### How it works?
-![insertion](./images/insertion-sort.jpeg)
+![insertion](./images/insertion-sort.png)
 ![insertion-animation](./images/insertion-sort-animation.gif)
 
 ## Time Complexity
