@@ -16,7 +16,7 @@ The algorithm works by iterating through the array and inserting each element in
 
 ### How it works?
 ![insertion](./images/insertion-sort/insertion-sort.png)
-![insertion-animation](./images/insertion-sort/insertion-sort-animation.gif)
+![insertion-animation](./images/insertion-sort/Insertion-sort-animated.gif)
 
 ## Time Complexity
 - **Best Case**: \(O(n)\) (when the array is already sorted)
